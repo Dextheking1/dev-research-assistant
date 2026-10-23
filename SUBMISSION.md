@@ -79,8 +79,9 @@ last-mile guide from local server to a live skill.
 This project itself is open source (MIT, this repo). Contribution made
 during the hackathon window by the same author:
 
-- Contribution URL: [PLACEHOLDER, fill in one merged or open PR URL from
-  the hackathon window, e.g. https://github.com/python/mypy/pull/22037]
+- Contribution URL: https://github.com/ruvnet/ruflo/pull/4416
 - GitHub username: Dextheking1
-- What was done: [one or two plain sentences about the contribution and
-  why it matters, filled in when the URL is picked.]
+- What was done: Security fix in the ruflo (claude-flow) repository,
+  found by auditing its public source code and verified locally. The
+  pull request was reviewed and merged on October 23, 2026, inside the
+  hackathon window.
